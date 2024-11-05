@@ -9,7 +9,7 @@
 #define INC_DATA_H_
 
 extern const int g_iDataSize;  // Declaration of the integer
-extern unsigned char g_pucDataArray[];  // Declaration of the array
+extern const unsigned char g_pucDataArray[];  // Declaration of the array
 
 
 
