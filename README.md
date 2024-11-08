@@ -19,6 +19,6 @@ See sample transactions below:
 
 ![image](https://github.com/user-attachments/assets/1f89b301-61ad-4cc5-a2d0-a3b4c03e9a71)
 
-For ice40UL, its bitstream can fit in the internal flash of my STM32F411 Discovery board. My board  has 512 kB of Flash memory while the bitstream is only around 30 kB. 
+For ice40UL, its bitstream can fit in the internal flash of my STM32F411 Discovery board. My microcontroller  has 512 kB of Flash memory while the bitstream is only around 30 kB. 
 
 When using devices with higher density, an external memory might be needed such as an SPI Flash.
