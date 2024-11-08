@@ -1,6 +1,6 @@
 This is an SSPI CRAM programming implementation of ice40 Ultralite using STM32
 
-I used STM32's built-in HAL library for GPIO control and SPI bus communication. Unlike in our previous example in Raspberry Pi in which we divided the array by chunk before sending to the driver. The STM32 HAL automatically sends the data in chunks of 4 bytes (32-bit).
+I used STM32's built-in HAL library for GPIO control and SPI bus communication.Unlike the previous example on the Raspberry Pi, where the array was divided into chunks before being sent to the driver, the STM32 HAL automatically handles data transmission in 4-byte (32-bit) chunks.
 
 The instructions used for programming for this example is taken from FPGA-TN-02001-3.4( [ice40 Programming and Configuration](https://www.latticesemi.com/view_document?document_id=46502)) technical note. See below for the waveform instructions from the document.
 ![image](https://github.com/user-attachments/assets/d2f8afd1-0711-4ea5-af9f-bec0dd8c61b2)
