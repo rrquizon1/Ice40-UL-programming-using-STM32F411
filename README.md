@@ -10,7 +10,8 @@ In this implementation you can modify the array in data.c with your own bitstrea
 
 The whole programmign process fits it only a few lines of codes using STM32 built in library.
 
-![image](https://github.com/user-attachments/assets/337b3edb-9a3f-4543-8e7b-ffcca50bdb77)
+![image](https://github.com/user-attachments/assets/25a0e989-3c99-4ed5-934a-36a2e1854f69)
+
 
 See sample transactions below:
 ![image](https://github.com/user-attachments/assets/4acb897c-8715-405a-9849-af59c747271c)
